@@ -5,4 +5,4 @@ Code was rushed out in a few months, so the quality may be poor,
 but it is what it is.
 
 Also, didn't know how to build a proper makefile, so the 'makefile'
-is a shell script that runs gcc on a lot of different files.
+is a shell script that runs a gnu compiler on a lot of different files.
